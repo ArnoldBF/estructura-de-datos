@@ -1,0 +1,11 @@
+{
+	"nombre": "Arnold Bazan",
+	"email": "arnold@gmail.com",
+	"edad": 20,
+	"skill": ["backend", "frontend"],
+	"domicilio": {
+		"ciudad": "santa cruz",
+		"provincia": "Andres Ibanez",
+		"pais": "bolivia"
+	}
+}
